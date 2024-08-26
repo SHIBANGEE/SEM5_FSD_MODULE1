@@ -1,0 +1,23 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1,h2,h3{
+    color:rgb(255, 3, 3); 
+    background-color: rgb(187, 255, 2);
+}
+#first{
+    background-color:rgb(74, 251, 74); 
+    color:rgb(4, 5, 6);
+}
+.odd{
+    background-color:yellow; 
+    color:black;
+}
+ul>li{
+    color: rgb(109, 2, 109);
+}
+a[href = "https://youtube.com"]
+{
+ color: greenyellow  ;
+ font-size: larger;
+}
